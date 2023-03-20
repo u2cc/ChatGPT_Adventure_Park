@@ -21,3 +21,35 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_6.xml
+/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_6.xml
+/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_14_2.xml
+/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_14_2.xml
+/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_14_2.xml
+/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml
+/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml
+/.idea/libraries/Maven__com_google_http_client_google_http_client_1_23_0.xml
+/.idea/libraries/Maven__com_google_http_client_google_http_client_jackson2_1_23_0.xml
+/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_14_9.xml
+/.idea/libraries/Maven__com_squareup_okio_okio_1_17_2.xml
+/.idea/libraries/Maven__com_squareup_retrofit2_adapter_rxjava2_2_9_0.xml
+/.idea/libraries/Maven__com_squareup_retrofit2_converter_gson_2_9_0.xml
+/.idea/libraries/Maven__com_squareup_retrofit2_converter_jackson_2_9_0.xml
+/.idea/libraries/Maven__com_squareup_retrofit2_retrofit_2_9_0.xml
+/.idea/libraries/Maven__com_theokanning_openai_gpt3_java_api_0_11_1.xml
+/.idea/libraries/Maven__com_theokanning_openai_gpt3_java_client_0_11_1.xml
+/.idea/libraries/Maven__commons_codec_commons_codec_1_3.xml
+/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml
+/.idea/libraries/Maven__io_reactivex_rxjava2_rxjava_2_0_0.xml
+/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_0_1.xml
+/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_0_1.xml
+/.idea/libraries/Maven__org_projectlombok_lombok_1_18_26.xml
+/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml
+/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_32.xml
+/.idea/compiler.xml
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
+/ChatGPT_Adventure_Park.iml
