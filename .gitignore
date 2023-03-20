@@ -53,3 +53,4 @@ hs_err_pid*
 /.idea/vcs.xml
 /.idea/workspace.xml
 /ChatGPT_Adventure_Park.iml
+/.idea/*
